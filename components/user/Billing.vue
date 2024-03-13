@@ -87,7 +87,7 @@
               <div class="card-information">
                 <img
                   class="mb-3 img-fluid"
-                  src="../../assets/img/icons/payments/mastercard.png"
+                  src="/assets/img/icons/payments/mastercard.png"
                   alt="Master Card"
                 />
                 <div class="d-flex align-items-center mb-1">
@@ -123,7 +123,7 @@
               <div class="card-information">
                 <img
                   class="mb-3 img-fluid"
-                  src="../../assets/img/icons/payments/visa.png"
+                  src="/assets/img/icons/payments/visa.png"
                   alt="Master Card"
                 />
                 <h6 class="mb-1">Tom McBride</h6>
@@ -154,7 +154,7 @@
               <div class="card-information">
                 <img
                   class="mb-3 img-fluid"
-                  src="../../assets/img/icons/payments/american-express-logo.png"
+                  src="/assets/img/icons/payments/american-express-logo.png"
                   alt="Visa Card"
                 />
                 <div class="d-flex align-items-center mb-1">

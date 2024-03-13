@@ -107,7 +107,7 @@
             <tr>
               <td class="text-truncate">
                 <img
-                  src="../../assets/img/icons/brands/chrome.png"
+                  src="/assets/img/icons/brands/chrome.png"
                   alt="Chrome"
                   class="me-3"
                   width="22"
@@ -121,7 +121,7 @@
             <tr>
               <td class="text-truncate">
                 <img
-                  src="../../assets/img/icons/brands/chrome.png"
+                  src="/assets/img/icons/brands/chrome.png"
                   alt="Chrome"
                   class="me-3"
                   width="22"
@@ -135,7 +135,7 @@
             <tr>
               <td class="text-truncate">
                 <img
-                  src="../../assets/img/icons/brands/chrome.png"
+                  src="/assets/img/icons/brands/chrome.png"
                   alt="Chrome"
                   class="me-3"
                   width="22"
@@ -149,7 +149,7 @@
             <tr>
               <td class="text-truncate">
                 <img
-                  src="../../assets/img/icons/brands/chrome.png"
+                  src="/assets/img/icons/brands/chrome.png"
                   alt="Chrome"
                   class="me-3"
                   width="22"
@@ -163,7 +163,7 @@
             <tr>
               <td class="text-truncate">
                 <img
-                  src="../../assets/img/icons/brands/chrome.png"
+                  src="/assets/img/icons/brands/chrome.png"
                   alt="Chrome"
                   class="me-3"
                   width="22"
@@ -177,7 +177,7 @@
             <tr>
               <td class="text-truncate border-bottom-0">
                 <img
-                  src="../../assets/img/icons/brands/chrome.png"
+                  src="/assets/img/icons/brands/chrome.png"
                   alt="Chrome"
                   class="me-3"
                   width="22"
