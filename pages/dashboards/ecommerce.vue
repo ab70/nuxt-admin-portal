@@ -1,0 +1,3 @@
+<template>
+    <DashboardEcommerce />
+</template>
