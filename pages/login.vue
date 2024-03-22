@@ -1,7 +1,7 @@
 <style>
 @import url("~/public/assets/vendor/css/pages/page-auth.css");
 </style>
-<template lang="ts">
+<template lang="">
 <div>
     <div v-if="isLoaded">
         <div class="position-relative">
